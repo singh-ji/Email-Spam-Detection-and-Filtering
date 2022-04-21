@@ -62,5 +62,7 @@ The Logistic Regression model gives an accuracy of 0.9659 on the test set, Suppo
 * Naive Bayes Theorem: https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/
 
 ## Contributors
-* Nikhill Vombatkere
-* Annanya Pandey
+* Kamaldeep Singh
+* Sanyam 
+* Saksham 
+* 
