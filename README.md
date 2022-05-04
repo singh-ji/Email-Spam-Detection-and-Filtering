@@ -65,4 +65,5 @@ The Logistic Regression model gives an accuracy of 0.9659 on the test set, Suppo
 * Kamaldeep Singh
 * Sanyam 
 * Saksham 
-* 
+* Chirag 
+* Sankalp Mathur
